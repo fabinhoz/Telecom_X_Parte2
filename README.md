@@ -213,3 +213,18 @@ A previsão de churn permite que a Telecom X:
 - Aumente retenção de clientes
 - Tome decisões orientadas por dados
 - Ganhe vantagem competitiva
+
+---
+
+---
+
+## 👤 Autor
+
+**Fabio Zinetti**
+
+* **GitHub:** [github.com/fabinhoz](https://github.com/fabinhoz/)
+* **Projeto:** Desenvolvido como parte 2 do **Challenge de Data Science – Alura**.
+
+---
+
+*Este projeto foi realizado com fins de estudo e prática de análise de dados aplicada a problemas de negócio reais.*
