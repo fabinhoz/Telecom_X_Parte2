@@ -149,9 +149,15 @@ O modelo com melhor desempenho foi:
 
 👉 **Regressão Logística**
 
-Após análise comparativa, a Regressão Logística foi selecionada como modelo final, pois apresentou o maior Recall (0.569), métrica prioritária para o problema de churn.
+Ela apresentou:
 
-Embora o Gradient Boosting tenha apresentado maior ROC-AUC (0.842), a capacidade de identificar corretamente clientes que realmente irão cancelar foi considerada mais estratégica para o negócio.
+🔹 Maior Recall → melhor capacidade de detectar clientes que realmente cancelam
+
+🔹 Maior F1-Score → melhor equilíbrio entre Precisão e Recall
+
+🔹 Maior ROC-AUC → melhor capacidade geral de separação
+
+🔹 Maior Acurácia → melhor desempenho global
 
 ---
 
@@ -223,7 +229,7 @@ A previsão de churn permite que a Telecom X:
 **Fabio Zinetti**
 
 * **GitHub:** [github.com/fabinhoz](https://github.com/fabinhoz/)
-* **Projeto:** Desenvolvido como parte 2 do **Challenge de Data Science – Alura**.
+* **Projeto:** Desenvolvido como **parte 2** do **Challenge de Data Science – Alura**.
 
 ---
 
